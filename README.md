@@ -3,7 +3,7 @@
 Ce repo contient des sketches [p5.js](https://p5js.org/).
 
 Ci-dessous, quand j'écris « la tortue », je fais référence à la tortue du langage [Logo](https://en.wikipedia.org/wiki/Logo_%28programming_language%29).
-Certains sketch utilisent l'idée de base de la tortue pour dessiner quelques formes simples.
+Certains sketches utilisent l'idée de la tortue pour dessiner des formes géométriques simples.
 
 ## Install
 

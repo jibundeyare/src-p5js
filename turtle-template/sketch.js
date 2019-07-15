@@ -5,6 +5,13 @@ function setup() {
 function draw() {
   initialize();
 
+  // functions you can use:
+  // - forward(distance): move without drawing by a distance (in pixels)
+  // - trace(distance): draw a line by a distance (in pixels)
+  // - turnRight(angle): turn right by an angle (in degrees)
+  // - turnLeft(angle): turn left by an angle (in degrees)
+  // - plotStartEnd(): draw the starting point (in blue) and the ending point (in red)
+
   // type your code here
   // ...
 
